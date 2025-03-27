@@ -3,25 +3,25 @@ export * from './education'
 export * from './career'
 
 // personal info
-export const name = 'Derek Hu'
-export const headline = 'Teacher at Shanghai Soong Ching Ling School.'
+export const name = '梁发洲'
+export const headline = '我来自华中科技大学，是电子封装专业的大一学生。'
 export const introduction =
-  "Coucou Les Amis! My name is Derek Hu. I'm from Hubei and an alumnus of BUPT, UChicago, and Tsinghua. I’ve been teaching Computer Science at SCLS since 2020."
-export const email = 'tong.hu@scls-sh.org'
-export const githubUsername = 'derekhut'
+  "我是一名中国人，来自广西，现在就读于华中科技大学电子封装专业，我是一名i人，比较随和，我的兴趣爱好广泛，喜欢二次元，摄影，高科技，玩单机游戏。"
+export const email = 'loufun849@gmail.com/3104159547@qq.com'
+export const githubUsername = 'loufun'
 
 // about page
 export const aboutMeHeadline = 'Who Are You and Why Should I Care?'
 export const aboutParagraphs = [
-  "Coucou Les Amis! My name is Derek Hu. I'm from Hubei and an alumnus of BUPT, UChicago, and Tsinghua. I’ve been teaching Computer Science at SCLS since 2020.",
-  'Currently I am working on a new course called AI Camp, an innovative course where high school students create real-world products and startups while exploring the frontiers of AI.',
-  "I started this blog to share the insights I learn every day. Most blogs focus on education in Artificial Intelligence and general computer science, while others share the life lessons I've learned.",
+  "大家好啊！我是梁发洲，广西人，目前就读华中科技大学电子封装专业。",
+  '目前感兴趣的方向是集成电路，正在筹备参加全国三维创新大赛，数字建模大赛，全国大学生数学竞赛，使得自己的实力和名声得到提升。',
+  "这个博客主要用来记录我日常生活中的学习和成长，同时记录我思想的转变和我从日常生活中得到的感悟。OWO",
 ]
 
 // blog
 export const blogHeadLine = "What I've thinking about."
 export const blogIntro =
-  "I've written something about AI, programming and life."
+  "我目前只是写下了我的目标和一些最近的想法。*V*"
 
 // social links
 export type SocialLinkType = {
@@ -35,12 +35,12 @@ export const socialLinks: Array<SocialLinkType> = [
   {
     name: 'Tiktok',
     icon: 'tiktok',
-    href: 'https://www.tiktok.com/@harvard?lang=en',
+    href: 'https://www.douyin.com/user/self',
   },
   {
     name: 'Bilibili',
     icon: 'bilibili',
-    href: 'https://space.bilibili.com/349721082',
+    href: 'https://space.bilibili.com/366897583',
   },
 ]
 
